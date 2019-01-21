@@ -4,10 +4,16 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
+<<<<<<< HEAD
   <sounds name="sound"/>
 <<<<<<< HEAD
   <sprites name="sprites"/>
 =======
+=======
+  <sounds name="sound">
+    <sound>sound\menu_music</sound>
+  </sounds>
+>>>>>>> master
   <sprites name="sprites">
     <sprite>sprites\spr_worm_0</sprite>
     <sprite>sprites\spr_floor_0</sprite>
