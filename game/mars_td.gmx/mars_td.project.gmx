@@ -5,9 +5,24 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_worm_0</sprite>
+    <sprite>sprites\spr_floor_0</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\bk_ground</background>
+  </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\test_script.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\obj_worm_0</object>
+    <object>objects\obj_floor</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
