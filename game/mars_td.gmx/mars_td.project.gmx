@@ -5,13 +5,32 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
+<<<<<<< HEAD
   <sprites name="sprites"/>
+=======
+  <sprites name="sprites">
+    <sprite>sprites\spr_worm_0</sprite>
+    <sprite>sprites\spr_floor_0</sprite>
+  </sprites>
+>>>>>>> master
   <backgrounds name="background">
     <background>background\bk_ground</background>
   </backgrounds>
   <paths name="paths"/>
+<<<<<<< HEAD
   <rooms name="rooms">
     <room>rooms\game</room>
+=======
+  <scripts name="scripts">
+    <script>scripts\test_script.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\obj_worm_0</object>
+    <object>objects\obj_floor</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+>>>>>>> master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
