@@ -5,16 +5,14 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites">
-    <sprite>sprites\spr_worm_0</sprite>
-  </sprites>
+  <sprites name="sprites"/>
   <backgrounds name="background">
     <background>background\bk_ground</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\test_script.gml</script>
-  </scripts>
+  <rooms name="rooms">
+    <room>rooms\game</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
