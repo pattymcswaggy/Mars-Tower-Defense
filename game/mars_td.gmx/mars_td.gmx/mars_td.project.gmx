@@ -15,6 +15,9 @@
   <scripts name="scripts">
     <script>scripts\test_script.gml</script>
   </scripts>
+  <objects name="objects">
+    <object>objects\obj_worm_0</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
